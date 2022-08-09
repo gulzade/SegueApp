@@ -13,11 +13,11 @@
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="HomePageView" customModule="SegueExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HbK-qd-ARP">
-                                <rect key="frame" x="135" y="198" width="145" height="64"/>
+                                <rect key="frame" x="135" y="110" width="145" height="64"/>
                                 <color key="backgroundColor" systemColor="tertiarySystemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="Ff5-wn-ls0"/>
@@ -33,7 +33,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rk1-zN-dWd">
-                                <rect key="frame" x="135" y="622" width="145" height="64"/>
+                                <rect key="frame" x="135" y="534" width="145" height="64"/>
                                 <color key="backgroundColor" systemColor="tertiarySystemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="KKh-bo-k2n"/>
@@ -67,18 +67,18 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-17" y="171"/>
+            <point key="canvasLocation" x="-872" y="181"/>
         </scene>
         <!--Login View-->
         <scene sceneID="S9e-6W-q8I">
             <objects>
                 <viewController id="X5G-9v-J0o" customClass="LoginView" customModule="SegueExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="luH-TG-CBV">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="53T-WL-hmN">
-                                <rect key="frame" x="134.5" y="416" width="145" height="64"/>
+                                <rect key="frame" x="134.5" y="389" width="145" height="64"/>
                                 <color key="backgroundColor" systemColor="tertiarySystemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="OY7-GR-KaK"/>
@@ -108,18 +108,18 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JLp-wi-Qj3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="693" y="794"/>
+            <point key="canvasLocation" x="133" y="724"/>
         </scene>
         <!--Onboarding Screen1-->
         <scene sceneID="G3S-cq-Me3">
             <objects>
                 <viewController id="lZj-LW-evF" customClass="OnboardingScreen1" customModule="SegueExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="JRR-0r-FNF">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6qd-3B-g1D">
-                                <rect key="frame" x="134.5" y="416" width="145" height="64"/>
+                                <rect key="frame" x="134.5" y="389" width="145" height="64"/>
                                 <color key="backgroundColor" systemColor="tertiarySystemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="7Px-fl-0uY"/>
@@ -149,18 +149,18 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Maj-dI-Ir8" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="975" y="-165"/>
+            <point key="canvasLocation" x="155" y="-282"/>
         </scene>
         <!--Onboarding Screen2-->
         <scene sceneID="2QY-nW-GV5">
             <objects>
                 <viewController id="Ljq-je-Mkj" customClass="OnboardingScreen2" customModule="SegueExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="nTh-rz-Lsi">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ITq-Qh-lC3">
-                                <rect key="frame" x="134.5" y="416" width="145" height="64"/>
+                                <rect key="frame" x="134.5" y="389" width="145" height="64"/>
                                 <color key="backgroundColor" systemColor="tertiarySystemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="145" id="W3O-Yb-9zM"/>
@@ -190,18 +190,18 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="E5G-PI-x61" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1725" y="-165"/>
+            <point key="canvasLocation" x="1354" y="-283"/>
         </scene>
         <!--Onboarding Screen3-->
         <scene sceneID="8l1-X4-n4a">
             <objects>
                 <viewController id="uqs-jw-7eh" customClass="OnboardingScreen3" customModule="SegueExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="T8p-VL-KCZ">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cqv-go-gPE">
-                                <rect key="frame" x="134.5" y="416" width="145" height="64"/>
+                                <rect key="frame" x="134.5" y="389" width="145" height="64"/>
                                 <color key="backgroundColor" systemColor="tertiarySystemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="1Os-4M-YvZ"/>
@@ -231,7 +231,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="d3F-DE-888" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1725" y="559"/>
+            <point key="canvasLocation" x="1354" y="439"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="5dN-wq-BJw">
@@ -249,12 +249,12 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PC8-bo-mr3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-852" y="171"/>
+            <point key="canvasLocation" x="-1716" y="181"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="PPj-Gc-aVd"/>
-        <segue reference="ngm-Ob-iNS"/>
+        <segue reference="osp-E7-3t8"/>
+        <segue reference="Z1Y-r5-UkN"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="tertiarySystemBackgroundColor">
